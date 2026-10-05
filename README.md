@@ -198,14 +198,6 @@ asean-bank-comparator/
 
 ---
 
-## Roadmap
-
-- [ ] **Canadian Big 5 adapter**: the pipeline is bank-agnostic. Pointing it at RBC, TD, BMO, Scotiabank, and CIBC product documents requires only new PDFs and metadata, not code changes.
-- [ ] Add Thailand, Philippines, and Vietnam
-- [ ] Live FX rates with a "rate as of" timestamp
-- [ ] Freshness check that flags documents older than 6 months
-- [ ] Reranker on top of hybrid retrieval
-
 ## Limitations
 
 - English-language documents only; products documented only in local languages are not covered.
