@@ -7,12 +7,6 @@ Cross-border, citation-grounded RAG for comparing retail banking products across
 
 Ask a question in plain English. Get a side-by-side comparison across six banks in three countries, normalized to one currency, with every number traced back to the exact page of the bank's own document.
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/Vector%20DB-Chroma-6E44FF)
-![Eval](https://img.shields.io/badge/Eval%20accuracy-XX%25-success)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 ## The problem
 
 A customer comparing a credit card from DBS (Singapore), Maybank (Malaysia), and BCA (Indonesia) faces two obstacles:
