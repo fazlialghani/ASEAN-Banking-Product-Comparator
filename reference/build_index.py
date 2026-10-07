@@ -118,7 +118,7 @@ def main() -> None:
                      else f"pp.{meta['page_start']}-{meta['page_end']}")
             print(f"\n- {meta['bank']} | {meta['document']} | {pages} | "
                   f"similarity {1 - dist:.2f}")
-            print("  " + doc.split("\n\n", 1)[-1][:200].replace("\n", " ") + " ...")
+            print("  " + doc.split("\n\n", 1)[-1][:200].replace("\n", " ") + " ..." "test")
 
 
 if __name__ == "__main__":
